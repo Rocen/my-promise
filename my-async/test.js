@@ -1,4 +1,4 @@
-const asyncToGenerator = require('./my-async');
+const asyncToGenerator = require('.');
 
 const getData = () => new Promise(resolve => setTimeout(() => resolve("data"), 1000))
   

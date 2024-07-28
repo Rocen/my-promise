@@ -1,4 +1,4 @@
-const MyPromise = require('./my-promise')
+const MyPromise = require('./index')
 
 MyPromise.resolve().then(() => {
     console.log(0);

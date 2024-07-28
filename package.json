@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "promises-aplus-tests my-promise"
+    "test": "promises-aplus-tests ./my-promise/index.js"
   },
   "keywords": [],
   "author": "",

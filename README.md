@@ -31,7 +31,7 @@ module.exports = MyPromise;
 // package.json
 
 "scripts": {
-  "test": "promises-aplus-tests my-promise"
+  "test": "promises-aplus-tests ./my-promise/index.js"
 }
 ```
 
